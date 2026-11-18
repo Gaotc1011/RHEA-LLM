@@ -1,0 +1,13 @@
+# Fine-tuned model checkpoints (large binary weights, not distributed via Git)
+Qwen-3-8B-RHEA-property-predictor/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# IDE / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

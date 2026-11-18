@@ -1,0 +1,15 @@
+{"composition_formula": "Al20Nb30Ta10Ti30Zr10", "hardness(HV)": "382", "compressive_strain_at_room_temperature(%)": "12.55", "compressive_yield_strength_at_1273K(MPa)": "63"}
+{"composition_formula": "Al25Nb26.25Ta8.75Ti26.25Zr8.75", "hardness(HV)": "438", "compressive_strain_at_room_temperature(%)": "2.53", "compressive_yield_strength_at_1273K(MPa)": "70"}
+{"composition_formula": "Al30Nb26.25Ta8.75Ti26.25Zr8.75", "hardness(HV)": "490", "compressive_strain_at_room_temperature(%)": "1.62", "compressive_yield_strength_at_1273K(MPa)": "143"}
+{"composition_formula": "Ti20Zr20V20Nb40", "hardness(HV)": "434.9", "compressive_strain_at_room_temperature(%)": "35.2", "compressive_yield_strength_at_1273K(MPa)": "227"}
+{"composition_formula": "Al13.33Mo13.33Nb26.67Ti33.33V13.33Zr0", "hardness(HV)": "364.6", "compressive_strain_at_room_temperature(%)": "22.5", "compressive_yield_strength_at_1273K(MPa)": "150"}
+{"composition_formula": "Al12.99Mo12.99Nb25.97Ti32.47V12.99Zr2.60", "hardness(HV)": "401.4", "compressive_strain_at_room_temperature(%)": "12.9", "compressive_yield_strength_at_1273K(MPa)": "252"}
+{"composition_formula": "Al12.05Mo12.05Nb24.10Ti30.12V12.05Zr9.64", "hardness(HV)": "431.3", "compressive_strain_at_room_temperature(%)": "12.1", "compressive_yield_strength_at_1273K(MPa)": "141"}
+{"composition_formula": "Al11.24Mo11.24Nb22.47Ti28.09V11.24Zr15.73", "hardness(HV)": "482.3", "compressive_strain_at_room_temperature(%)": "12.5", "compressive_yield_strength_at_1273K(MPa)": "205"}
+{"composition_formula": "Al10.53Mo10.53Nb21.05Ti26.32V10.53Zr21.05", "hardness(HV)": "477.5", "compressive_strain_at_room_temperature(%)": "10.9", "compressive_yield_strength_at_1273K(MPa)": "156"}
+{"composition_formula": "Al9.90Mo9.90Nb19.80Ti24.75V9.90Zr25.74", "hardness(HV)": "472.4", "compressive_strain_at_room_temperature(%)": "9.7", "compressive_yield_strength_at_1273K(MPa)": "79"}
+{"composition_formula": "Ti28.57V14.29Nb14.29Mo14.29Zr28.57", "hardness(HV)": "434", "compressive_strain_at_room_temperature(%)": "31.6", "compressive_yield_strength_at_1273K(MPa)": "386"}
+{"composition_formula": "Hf20Mo20Ta20Ti20Zr20", "hardness(HV)": "542", "compressive_strain_at_room_temperature(%)": "4", "compressive_yield_strength_at_1273K(MPa)": "404"}
+{"composition_formula": "Hf16.67Mo16.67Nb16.67Ta16.67Ti16.67Zr16.67", "hardness(HV)": "505", "compressive_strain_at_room_temperature(%)": "12", "compressive_yield_strength_at_1273K(MPa)": "556"}
+{"composition_formula": "Nb50.2Mo49.8", "hardness(HV)": "765", "compressive_strain_at_room_temperature(%)": "8", "compressive_yield_strength_at_1273K(MPa)": "385"}
+{"composition_formula": "Hf10Nb30Ta30W30", "hardness(HV)": "403", "compressive_strain_at_room_temperature(%)": "42.7", "compressive_yield_strength_at_1273K(MPa)": "584"}

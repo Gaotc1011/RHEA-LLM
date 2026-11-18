@@ -1,0 +1,86 @@
+
+    <html>
+    <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+            background: white;
+        }
+
+        .container {
+            display: inline-block;
+            max-width: 100%;
+            position: relative;
+        }
+
+        .sentence {
+            font-size: 28px;
+            line-height: 1.5;
+            word-break: break-word;
+            overflow-wrap: break-word;
+            white-space: normal;
+        }
+
+        .token {
+            color: black;
+            padding: 2px 2px;
+            margin: 1px;
+            border-radius: 8px;
+            display: inline-block;
+            white-space: nowrap;
+        }
+
+        .colorbar-wrapper {
+            margin-top: 12px;
+            width: 260px;
+            float: right;
+        }
+
+        .colorbar {
+            height: 20px;
+            border-radius: 8px;
+            background: linear-gradient(
+                to right,
+                rgb(255,255,255),
+                rgb(251,126,112)
+            );
+            border: 1px solid #ccc;
+        }
+
+        .colorbar-labels {
+            display: flex;
+            justify-content: space-between;
+            font-size: 22px;
+            margin-top: 4px;
+        }
+
+        /* Clear float */
+        .container::after {
+            content: "";
+            display: table;
+            clear: both;
+        }
+    </style>
+    </head>
+    <body>
+        <div class="container">
+            <div class="sentence">
+                <span class="token" style="background-color:rgb(254,240,239);">Predict</span> <span class="token" style="background-color:rgb(254,248,247);">the</span> <span class="token" style="background-color:rgb(252,189,182);">compressive</span> <span class="token" style="background-color:rgb(251,140,127);">yield</span> <span class="token" style="background-color:rgb(251,147,135);">strength</span> <span class="token" style="background-color:rgb(254,230,227);">at</span> <span class="token" style="background-color:rgb(254,235,232);">room</span> <span class="token" style="background-color:rgb(253,219,215);">temperature</span> <span class="token" style="background-color:rgb(253,206,201);">for</span> <span class="token" style="background-color:rgb(254,244,242);">the</span> <span class="token" style="background-color:rgb(254,231,228);">following</span> <span class="token" style="background-color:rgb(253,212,207);">refractory</span> <span class="token" style="background-color:rgb(254,243,242);">high</span> <span class="token" style="background-color:rgb(254,228,225);">entropy</span> <span class="token" style="background-color:rgb(253,202,197);">alloy.</span> <span class="token" style="background-color:rgb(251,148,136);">Al22.22</span> <span class="token" style="background-color:rgb(251,126,112);">Cr11.11</span> <span class="token" style="background-color:rgb(252,175,167);">Nb22.22</span> <span class="token" style="background-color:rgb(252,182,174);">Ti22.22</span> <span class="token" style="background-color:rgb(253,213,208);">V22.22</span> <span class="token" style="background-color:rgb(254,230,228);">alloy</span> <span class="token" style="background-color:rgb(254,241,240);">prepared</span> <span class="token" style="background-color:rgb(254,253,252);">by</span> <span class="token" style="background-color:rgb(254,240,238);">vacuum</span> <span class="token" style="background-color:rgb(253,206,201);">arc</span> <span class="token" style="background-color:rgb(254,246,245);">melting</span> <span class="token" style="background-color:rgb(255,255,255);">in</span> <span class="token" style="background-color:rgb(254,248,247);">low-pressure</span> <span class="token" style="background-color:rgb(253,194,188);">argon</span> <span class="token" style="background-color:rgb(253,222,218);">atmosphere</span> <span class="token" style="background-color:rgb(254,253,253);">with</span> <span class="token" style="background-color:rgb(254,254,253);">5</span> <span class="token" style="background-color:rgb(252,177,169);">re-melts,</span> <span class="token" style="background-color:rgb(254,241,240);">followed</span> <span class="token" style="background-color:rgb(254,249,249);">by</span> <span class="token" style="background-color:rgb(253,207,202);">homogenization</span> <span class="token" style="background-color:rgb(254,238,236);">annealing</span> <span class="token" style="background-color:rgb(255,255,255);">at</span> <span class="token" style="background-color:rgb(253,191,184);">1200°C</span> <span class="token" style="background-color:rgb(254,252,252);">for</span> <span class="token" style="background-color:rgb(253,211,207);">24h</span> <span class="token" style="background-color:rgb(254,250,250);">in</span> <span class="token" style="background-color:rgb(254,226,223);">vacuum-sealed</span> <span class="token" style="background-color:rgb(252,183,175);">quartz</span> <span class="token" style="background-color:rgb(252,180,171);">tubes</span> 
+            </div>
+            
+    <div class="colorbar-wrapper">
+        <div class="colorbar"></div>
+        <div class="colorbar-labels">
+            <span>0.00</span>
+            <span>attention</span>
+            <span>0.05</span>
+        </div>
+    </div>
+    
+        </div>
+    </body>
+    </html>
+    
